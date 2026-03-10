@@ -27,5 +27,3 @@ Each command is in its own file for clean GitHub organization.
 
 Need help?? Open a ticket at https://discord.gg/68HTay9kUQ
 
-## 📂 Project Structure
-
