@@ -1,0 +1,5 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "clientId": "YOUR_APPLICATION_ID_HERE",
+    "staffRoleId": "ROLE_ID_ALLOWED_TO_USE_COMMANDS"
+}
